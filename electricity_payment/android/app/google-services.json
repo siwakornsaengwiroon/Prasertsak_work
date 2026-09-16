@@ -1,13 +1,13 @@
 {
   "project_info": {
-    "project_number": "48437781644",
-    "project_id": "flutterfirebaseeducated-1d35d",
-    "storage_bucket": "flutterfirebaseeducated-1d35d.firebasestorage.app"
+    "project_number": "81226293678",
+    "project_id": "flutterfirebaseeducated-b33cc",
+    "storage_bucket": "flutterfirebaseeducated-b33cc.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:48437781644:android:a6d2d70614f70ff431c7a9",
+        "mobilesdk_app_id": "1:81226293678:android:623dc70179dc4f1eeda83f",
         "android_client_info": {
           "package_name": "com.example.electricity_payment"
         }
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyA8XhZvB-YdQybKBOdnN0-v7-3UQb8O6YI"
+          "current_key": "AIzaSyCBidWADeA3P9FzW5aDHgaa0W3fd4VdASY"
         }
       ],
       "services": {
